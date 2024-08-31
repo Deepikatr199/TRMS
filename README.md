@@ -4,21 +4,25 @@ This guide will help you set up and run the Teachers Record Management System (T
 1. Download the Project Files
 Download the project zip file from the provided source.
 Extract the zip file.
+
 2. Set Up the Project Directory
 Copy the trms folder from the extracted files.
 Paste the trms folder inside your web server's root directory:
 XAMPP: xampp/htdocs
 WAMP: wamp/www
 LAMP: var/www/html
+
 3. Set Up the Database
 Open PHPMyAdmin in your browser.
 Create a new database with the name trms.
 Import the trms.sql file located in the SQL file folder inside the extracted package:
 Click on the Import tab in PHPMyAdmin.
 Choose the trms.sql file and click Go.
+
 4. Run the Project
 Open your browser and navigate to: http://localhost/TRMS-PHP-Project/trms/
 This will open the frontend of the TRMS application.
+
 Credentials
 You can log in using the following credentials:
 
