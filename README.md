@@ -27,14 +27,16 @@ Credentials
 You can log in using the following credentials:
 
 Admin Panel:
-
 Username: admin
 Password: Test@123
-Teacher Panel:
 
+
+Teacher Panel:
 Username: jogoe12@yourdomain.com
 Password: Test@123
+
 OR Register a new Teacher account.
+
 Note:
 If you encounter any issues while setting up, make sure that your web server (XAMPP, WAMP, or LAMP) is running and the database is correctly configured.
 
